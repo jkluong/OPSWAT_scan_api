@@ -56,6 +56,7 @@ def main():
 
             print("scan_result: " + str(details[engine]["scan_result_i"]))
             print("def_time: " + details[engine]["def_time"])
+        f.close()
 
 
 
