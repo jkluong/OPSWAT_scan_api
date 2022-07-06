@@ -1,8 +1,8 @@
 # OPSWAT_scan_api
 program to scan a file using OPSWAT
 
-kept it quick and simple for the assignment. 
-could improve in the following ways:
+kept it quick and simple for the assignment
+could improve in the following ways
   use helper functions to clean up the code
   store main url in a constant so that it can be changed when version changes or url changes
   use a proper way of limiting api calls to check for scan completion or even better using webhooks
